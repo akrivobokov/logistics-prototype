@@ -1,12 +1,12 @@
 {
   "files": {
     "main.css": "/logistics-prototype/static/css/main.31d6cfe0.css",
-    "main.js": "/logistics-prototype/static/js/main.15ea4dbc.js",
+    "main.js": "/logistics-prototype/static/js/main.06619a0e.js",
     "index.html": "/logistics-prototype/index.html",
-    "main.15ea4dbc.js.map": "/logistics-prototype/static/js/main.15ea4dbc.js.map"
+    "main.06619a0e.js.map": "/logistics-prototype/static/js/main.06619a0e.js.map"
   },
   "entrypoints": [
     "static/css/main.31d6cfe0.css",
-    "static/js/main.15ea4dbc.js"
+    "static/js/main.06619a0e.js"
   ]
 }
